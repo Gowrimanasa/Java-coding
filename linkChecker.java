@@ -48,8 +48,6 @@ public class LinkCheckerTest {
     }
 }
 
-public class linkChecker {
-public class LinkChecker {
 
 		public boolean checkLink(String string) {
 			// TODO Auto-generated method stub
