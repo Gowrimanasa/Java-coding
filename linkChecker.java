@@ -68,9 +68,4 @@ public class LinkChecker {
 
 
 	
-	public static int verifyLink(String url) {
-		// TODO Auto-generated method stub
-		return 0;
-	}
-
-}
+	
